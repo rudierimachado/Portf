@@ -42,7 +42,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-         <a href="https://rudierimachado.github.io/" Rd />
+         Rd 
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
