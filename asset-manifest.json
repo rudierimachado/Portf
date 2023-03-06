@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7BPortf%7D/static/css/main.1c4b16e7.css",
-    "main.js": "/%7BPortf%7D/static/js/main.18041f7d.js",
-    "static/js/787.5c0b2d12.chunk.js": "/%7BPortf%7D/static/js/787.5c0b2d12.chunk.js",
-    "static/media/about.png": "/%7BPortf%7D/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-main.jpg": "/%7BPortf%7D/static/media/home-main.90b3e383f9ec1374f249.jpg",
-    "static/media/tabuada.png": "/%7BPortf%7D/static/media/tabuada.a3bcfe1df6a699fdd761.png",
-    "static/media/api-cepcomplete.png": "/%7BPortf%7D/static/media/api-cepcomplete.b60ec8be905ed81a5076.png",
-    "static/media/home-bg.jpg": "/%7BPortf%7D/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/api-gpt.png": "/%7BPortf%7D/static/media/api-gpt.13da37b6589c3acc5735.png",
-    "static/media/avatar.svg": "/%7BPortf%7D/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/calculadorra-simples.png": "/%7BPortf%7D/static/media/calculadorra-simples.52b5986fed116740d2d5.png",
-    "static/media/pre.svg": "/%7BPortf%7D/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/%7BPortf%7D/index.html",
-    "main.1c4b16e7.css.map": "/%7BPortf%7D/static/css/main.1c4b16e7.css.map",
-    "main.18041f7d.js.map": "/%7BPortf%7D/static/js/main.18041f7d.js.map",
-    "787.5c0b2d12.chunk.js.map": "/%7BPortf%7D/static/js/787.5c0b2d12.chunk.js.map"
+    "main.css": "/github-page/static/css/main.67ca185e.css",
+    "main.js": "/github-page/static/js/main.6c5b4bae.js",
+    "static/js/787.5c0b2d12.chunk.js": "/github-page/static/js/787.5c0b2d12.chunk.js",
+    "static/media/about.png": "/github-page/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-main.jpg": "/github-page/static/media/home-main.90b3e383f9ec1374f249.jpg",
+    "static/media/tabuada.png": "/github-page/static/media/tabuada.a3bcfe1df6a699fdd761.png",
+    "static/media/api-cepcomplete.png": "/github-page/static/media/api-cepcomplete.b60ec8be905ed81a5076.png",
+    "static/media/home-bg.jpg": "/github-page/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/api-gpt.png": "/github-page/static/media/api-gpt.13da37b6589c3acc5735.png",
+    "static/media/avatar.svg": "/github-page/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/calculadorra-simples.png": "/github-page/static/media/calculadorra-simples.52b5986fed116740d2d5.png",
+    "static/media/pre.svg": "/github-page/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/github-page/index.html",
+    "main.67ca185e.css.map": "/github-page/static/css/main.67ca185e.css.map",
+    "main.6c5b4bae.js.map": "/github-page/static/js/main.6c5b4bae.js.map",
+    "787.5c0b2d12.chunk.js.map": "/github-page/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c4b16e7.css",
-    "static/js/main.18041f7d.js"
+    "static/css/main.67ca185e.css",
+    "static/js/main.6c5b4bae.js"
   ]
 }
