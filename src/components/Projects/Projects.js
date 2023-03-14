@@ -6,7 +6,7 @@ import autoComplete from "../../Assets/Projects/api-cepcomplete.png";
 import ApiGpt from "../../Assets/Projects/api-gpt.png";
 import calculadoraSimples from "../../Assets/Projects/calculadorra-simples.png";
 import tabuada from "../../Assets/Projects/tabuada.png";
-
+import miniportf from "../../Assets/Projects/miniportf.jpeg"
 
 
 function Projects() {
@@ -30,6 +30,17 @@ function Projects() {
               description="Api que completa os campos apartir do cep"
               ghLink="https://github.com/rudierimachado/API_Autocomplete"
               demoLink="https://rudierimachado.github.io/API_Autocomplete/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={miniportf}
+              isBlog={false}
+              title="desafios"
+              description="pagina com desafios comcluidos"
+              ghLink="https://github.com/rudierimachado/repositorios-de-desafios"
+              demoLink="https://rudierimachado.github.io/repositorios-de-desafios/"
             />
           </Col>
 
