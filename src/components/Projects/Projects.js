@@ -6,8 +6,8 @@ import autoComplete from "../../Assets/Projects/api-cepcomplete.png";
 import ApiGpt from "../../Assets/Projects/api-gpt.png";
 import calculadoraSimples from "../../Assets/Projects/calculadorra-simples.png";
 import tabuada from "../../Assets/Projects/tabuada.png";
-import miniportf from "../../Assets/Projects/miniportf.jpeg"
-import cartao drom "../../Assets/Projects/cartao.jpg"
+import miniportf from "../../Assets/Projects/miniportf.jpeg";
+import cartao from "../../Assets/Projects/cartao.jpg"
 
 
 function Projects() {
