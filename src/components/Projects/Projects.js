@@ -7,6 +7,7 @@ import ApiGpt from "../../Assets/Projects/api-gpt.png";
 import calculadoraSimples from "../../Assets/Projects/calculadorra-simples.png";
 import tabuada from "../../Assets/Projects/tabuada.png";
 import miniportf from "../../Assets/Projects/miniportf.jpeg"
+import cartao drom "../../Assets/Projects/cartao.jpg"
 
 
 function Projects() {
@@ -74,6 +75,17 @@ function Projects() {
               description={<p className="text-center">Ferramenta de uso de tabuada</p>} 
               ghLink="https://github.com/rudierimachado/calculadoraSimples"
               demoLink="https://rudierimachado.github.io/Tabuada/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard 
+              imgPath={cartao}
+              isBlog={false}
+              title="CartãoCredito"
+              description={<p className="text-center">Ferramenta de geração de cartao</p>} 
+              ghLink="https://github.com/rudierimachado/Formul-rio-de-detalhes-do-cart-o"
+              demoLink="https://rudierimachado.github.io/Formul-rio-de-detalhes-do-cart-o/"
             />
           </Col>
 
