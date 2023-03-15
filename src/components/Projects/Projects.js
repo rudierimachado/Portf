@@ -23,55 +23,55 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
     
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard 
               imgPath={autoComplete}
               isBlog={false}
               title="API cep autocomplete"
-              description="Api que completa os campos apartir do cep"
+              description={<p className="text-center">Api que completa os campos apartir do cep</p>} 
               ghLink="https://github.com/rudierimachado/API_Autocomplete"
               demoLink="https://rudierimachado.github.io/API_Autocomplete/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
+          <Col md={4} className="project-card" >
+            <ProjectCard 
               imgPath={miniportf}
               isBlog={false}
               title="desafios"
-              description="pagina com desafios comcluidos"
+              description={<p className="text-center">Pagina com desafios</p>} 
               ghLink="https://github.com/rudierimachado/repositorios-de-desafios"
               demoLink="https://rudierimachado.github.io/repositorios-de-desafios/"
             />
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard 
               imgPath={ApiGpt}
               isBlog={false}
               title="Api do chat GPT"
-              description="Integração com o chat GPT"
+              description={<p className="text-center">Integração com o chat GPT</p>} 
               ghLink="https://github.com/rudierimachado/API_openAI"
               demoLink="https://rudierimachado.github.io/API_openAI/"
             />
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard 
               imgPath={calculadoraSimples}
               isBlog={false}
               title="calculadora"
-              description="Uma simples calculadora"
+              description={<p className="text-center">Uma simples calculadora</p>} 
               ghLink="https://github.com/rudierimachado/calculadoraSimples"
               demoLink="https://rudierimachado.github.io/calculadoraSimples/"
             />
           </Col>
 
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard 
               imgPath={tabuada}
               isBlog={false}
               title="Tabuada"
-              description="Ferramenta de uso de tabuada"
+              description={<p className="text-center">Ferramenta de uso de tabuada</p>} 
               ghLink="https://github.com/rudierimachado/calculadoraSimples"
               demoLink="https://rudierimachado.github.io/Tabuada/"
             />
